@@ -8,6 +8,7 @@ int main()
       // display 'Masukkan Panjang = '
       cout << "Masukkan Panjang = ";
       // accept nPanjang
+      cin >> nPanjang;
       // diplay 'Masukkan Lebar'
       // accept nLebar
       // compute nLuas = nPanjang * nLuas
