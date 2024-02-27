@@ -5,7 +5,8 @@ int main()
 {  // begin
       // numeric nPanjang, nLebar, nLuas
       int nPanjang, nLebar, nLuas;
-      // display 'Masukkan Panjang'
+      // display 'Masukkan Panjang = '
+      cout << "Masukkan Panjang = ";
       // accept nPanjang
       // diplay 'Masukkan Lebar'
       // accept nLebar
