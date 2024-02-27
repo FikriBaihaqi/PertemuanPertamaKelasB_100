@@ -10,6 +10,7 @@ int main()
       // accept nPanjang
       cin >> nPanjang;
       // diplay 'Masukkan Lebar'
+      cout << "Masukkan Lebar = ";
       // accept nLebar
       // compute nLuas = nPanjang * nLuas
       // display 'Luasnya adalah = ' + nLuas
