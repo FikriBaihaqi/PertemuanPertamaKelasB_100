@@ -14,5 +14,6 @@ int main()
       // accept nLebar
       cin >> nLebar;
       // compute nLuas = nPanjang * nLuas
+      nLuas = nPanjang * nLebar;
       // display 'Luasnya adalah = ' + nLuas
 }  // end
